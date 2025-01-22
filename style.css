@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    color: #e2d1d1;
+    line-height: 1.6;
+  }
+  
+  
+  header {
+    background-color: #871699;
+    padding: 10px 20px;
+  }
+  
+  header ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  header ul li {
+    margin-left: 20px;
+  }
+  
+  header ul li a {
+    color: #dddddd;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  
+  .hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    text-align: center;
+    background-image:url("https://img.freepik.com/free-vector/magic-school-classroom-night_107791-3187.jpg?t=st=1737474907~exp=1737478507~hmac=7d16050c18ed691d73313da225c6ce4b4c64b498b3a3cb65f16530ec4130f910&w=740");
+    color: #fff;
+    background-size:cover;
+  }
+  
+  .hero h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+    font-family:roboto;
+    font-weight:bold;
+  }
+  
+  .hero p {
+    font-size:25px;;
+    margin-bottom: 30px;
+    font-family:roboto;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #2a0b0b;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+  }
+  
+  .btn:hover {
+    transform: scale(1.1);
+  }
+
+  .skill-card{
+    padding:35px;
+    background-color: #d68ce2;
+    
+  
+  }
+
+  .card-1{
+    margin:30px;
+    
+  }
+   
+
+  .card-2{
+   margin:30px
+  }
+  
