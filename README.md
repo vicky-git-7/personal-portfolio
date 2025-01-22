@@ -19,4 +19,6 @@ Creating a personal portfolio website using HTML, CSS, Bootstrap, and GSAP is an
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/c699a95c-88fc-44cf-aced-1ad9b0b60db5)
+
 
